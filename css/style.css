@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+}
+.container div {
+    width: 300px;
+    background-color: orangered;
+}
+
+div {
+    background-color: black;
+    color: white;
+}
